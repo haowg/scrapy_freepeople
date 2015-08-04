@@ -1,5 +1,6 @@
 # scrapy_freepeople
 运行这个程序需要先安装python2,scrapy
+
 1.安装pip
 
     $ sudo apt-get install python-pip python-dev build-essential
