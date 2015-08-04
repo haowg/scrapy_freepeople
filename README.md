@@ -21,5 +21,7 @@
     Sudo easy_install twisted
     
 运行：进入cookies.us同级目录下
+
   scrapy crawl freepeople -o freepeople.json
+  
 freepeople.json 就是最终生成的结果文件
